@@ -3,11 +3,11 @@ public class logicOperations {
         int a = 8;
         int b = 5;
 
-        //operadores de asignación
+        //Operadores de Asignación
         System.out.println("a es igual a b ->" + (a == b));
         System.out.println("a es diferente a b ->" + (a != b));
 
-        //operadores relacionales
+        //Operadores Relacionales
         System.out.println("a es mayor a b? ->" + (a > b));
         System.out.println("a es menor a b? ->" + (a < b));
         System.out.println("a es mayor o igual a b? ->" + (a >= b));
